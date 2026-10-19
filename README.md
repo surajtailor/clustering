@@ -1,6 +1,6 @@
 # Mixed-Data Clustering with a Context-Aware Sequence Distance
 
-Clustering of patient data that mixes **categorical, binary, numeric and sequence** attributes. The method adapts Gower's distance so that it can include sequence data, using the *context-aware distance* from [Context Aware Trace Clustering (Bose & van der Aalst, 2009)](https://doi.org/10.1137/1.9781611972795.35) as the sequence component.
+Clustering of patient data that mixes **categorical, binary, numeric and sequence** attributes. The method adapts Gower's distance so that it can include sequence data, using the *context-aware distance* from [Context Aware Trace Clustering (Bose & van der Aalst, 2009)](https://doi.org/10.1137/1.9781611972795.35) as the sequence component. Work was done for INSIGNEO.
 
 Author: Suraj Tailor (August 2020). See the accompanying paper, *Gower's distance combined with a context aware sequence distance metric*, for the full derivation.
 
